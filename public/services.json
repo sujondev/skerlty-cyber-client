@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "1",
+        "img": "https://html.designingmedia.com/whizcyber/assets/images/services-img3.png",
+        "name": "Finger Print Security",
+        "details": "Guis autem vel eum iure repre rui in ea voluptate velit esse ua nihil molestiae."
+    },
+    {
+        "_id": "2",
+        "img": "https://html.designingmedia.com/whizcyber/assets/images/services-img2.png",
+        "name": "Floder Security",
+        "details": "Guis autem vel eum iure repre rui in ea voluptate velit esse ua nihil molestiae."
+    },
+    {
+        "_id": "3",
+        "img": "https://html.designingmedia.com/whizcyber/assets/images/services-img1.png",
+        "name": "Computer Security",
+        "details": "Guis autem vel eum iure repre rui in ea voluptate velit esse ua nihil molestiae."
+    },
+    {
+        "_id": "4",
+        "img": "https://html.designingmedia.com/whizcyber/assets/images/services-img1.png",
+        "name": "Mobile Security",
+        "details": "Guis autem vel eum iure repre rui in ea voluptate velit esse ua nihil molestiae."
+    }
+]

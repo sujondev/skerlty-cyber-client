@@ -1,0 +1,44 @@
+/* .banner {
+    background-image: url(https://html.designingmedia.com/whizcyber/assets/images/header-right-img.png);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+} */
+
+/* .banner-img {
+    height: 100%;
+    width: 100%;
+    margin-top: 10px;
+} */
+
+/* ::before {
+    animation: star 10s ease-out infinite;
+    animation-duration: 10s;
+    animation-timing-function: ease-out;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: star;
+} */
+
+.banner h1 {
+    font-size: 57px;
+    line-height: 60px;
+    margin-bottom: 20px;
+}
+
+.h1-text {
+    color: #4aa5f0;
+}
+
+.banner p {
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    word-spacing: 0px;
+    margin-bottom: 30px;
+    color: #afb6d2;
+    padding-right: 10px;
+}

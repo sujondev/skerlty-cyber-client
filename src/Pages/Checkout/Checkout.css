@@ -1,0 +1,38 @@
+.order-feild {
+    display: block;
+    height: 50px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #afb6d2;
+    background-color: #1d233c;
+}
+
+.order-text-feild {
+    display: block;
+    height: 100px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #afb6d2;
+    background-color: #1d233c;
+}
+
+.order-btn {
+    background-color: #4aa5f0;
+    line-height: 22px;
+    font-size: 20px;
+    color: white;
+    border-radius: 16px;
+    font-weight: 600;
+}
+
+.order-feild:focus {
+    display: block;
+    height: 50px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #afb6d2;
+    background-color: #1d233c;
+}
